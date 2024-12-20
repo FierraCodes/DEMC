@@ -1,0 +1,7 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+api.purpurmc.org	0	1	1734691184	2592000
+ci.lucko.me	0	1	1734689464	31536000
+github.com	0	1	1734693236	31536000
+cdn.modrinth.com	0	1	1734693844	15552000

@@ -1,0 +1,322 @@
+[11:31:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-LTS; Eclipse Adoptium Temurin-21.0.5+11) on Linux 5.15.0-1072-aws (amd64)
+[11:31:00] [ServerMain/INFO]: [bootstrap] Loading Purpur 1.21.3-2358-ver/1.21.3@16ce24a (2024-12-04T12:57:44Z) for Minecraft 1.21.3
+[11:31:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[11:31:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[11:31:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - FastAsyncWorldEdit (2.12.2), LagFixer (1.3.31 (build 95)), LuckPerms (5.4.145), Pl3xMap (1.21.3-511), PlugManX (2.4.1), Typewriter (0.8.0-beta-144), ViaBackwards (5.2.1-SNAPSHOT), ViaVersion (5.2.1-SNAPSHOT), packetevents (2.7.0)
+[11:31:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:31:05] [ServerMain/INFO]: Loaded 1337 recipes
+[11:31:05] [ServerMain/INFO]: Loaded 1448 advancements
+[11:31:05] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[11:31:05] [Server thread/INFO]: Loading properties
+[11:31:05] [Server thread/INFO]: This server is running Purpur version 1.21.3-2358-ver/1.21.3@16ce24a (2024-12-04T12:57:44Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[11:31:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[11:31:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:31:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:31:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[11:31:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[11:31:07] [Server thread/WARN]: [Pufferfish] SIMD operations are available for your server, but are not configured!
+[11:31:07] [Server thread/WARN]: [Pufferfish] To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[11:31:07] [Server thread/WARN]: [Pufferfish] If you have already added this flag, then SIMD operations are not supported on your JVM or CPU.
+[11:31:07] [Server thread/WARN]: [Pufferfish] Debug: Java: 21.0.5, test run: true
+[11:31:07] [Server thread/INFO]: Default game type: SURVIVAL
+[11:31:07] [Server thread/INFO]: Generating keypair
+[11:31:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:31:07] [Server thread/INFO]: Using epoll channel type
+[11:31:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:31:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loading 4 libraries... please wait
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/com/corundumstudio/socketio/netty-socketio/1.7.19/netty-socketio-1.7.19.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/io/netty/netty-buffer/4.1.63.Final/netty-buffer-4.1.63.Final.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/io/netty/netty-common/4.1.63.Final/netty-common-4.1.63.Final.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/io/netty/netty-transport/4.1.63.Final/netty-transport-4.1.63.Final.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/io/netty/netty-resolver/4.1.63.Final/netty-resolver-4.1.63.Final.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/io/netty/netty-handler/4.1.63.Final/netty-handler-4.1.63.Final.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/io/netty/netty-codec-http/4.1.63.Final/netty-codec-http-4.1.63.Final.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/io/netty/netty-codec/4.1.63.Final/netty-codec-4.1.63.Final.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/io/netty/netty-transport-native-epoll/4.1.63.Final/netty-transport-native-epoll-4.1.63.Final.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/io/netty/netty-transport-native-unix-common/4.1.63.Final/netty-transport-native-unix-common-4.1.63.Final.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar
+[11:31:08] [Server thread/INFO]: [SpigotLibraryLoader] [Typewriter] Loaded library /teamspace/studios/this_studio/libraries/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar
+[11:31:08] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1-SNAPSHOT
+[11:31:08] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[11:31:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[11:31:09] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[11:31:09] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[11:31:09] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[11:31:09] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1-SNAPSHOT
+[11:31:09] [Server thread/INFO]: [packetevents] Loading server plugin packetevents v2.7.0
+[11:31:11] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.145
+[11:31:12] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.4.1
+[11:31:12] [Server thread/INFO]: [Typewriter] Loading server plugin Typewriter v0.8.0-beta-144
+[11:31:12] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_21_R2 > NMS_Common > CommandAPIBukkit
+[11:31:12] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[11:31:12] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[11:31:12] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[11:31:12] [Server thread/INFO]: [[38;5;11m⚡[0m] Loading server plugin LagFixer v1.3.31 (build 95)
+[11:31:12] [Server thread/INFO]: [Pl3xMap] Loading server plugin Pl3xMap v1.21.3-511
+[11:31:12] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.2
+[11:31:12] [Server thread/WARN]: 
+**********************************************
+** You are using the Spigot-mapped FAWE jar on a modern Paper version.
+** This will result in slower first-run times and wasted disk space from plugin remapping.
+** Download the Paper FAWE jar from Modrinth to avoid this: https://modrinth.com/plugin/fastasyncworldedit/
+**********************************************
+[11:31:13] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1ff7dea1]
+[11:31:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:31:13] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.145
+[11:31:13] [Server thread/INFO]:         __    
+[11:31:13] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.145
+[11:31:13] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[11:31:13] [Server thread/INFO]: 
+[11:31:13] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[11:31:13] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[11:31:14] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[11:31:14] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[11:31:14] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 850ms)
+[11:31:14] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
+[11:31:14] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[11:31:14] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[11:31:14] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[11:31:14] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[11:31:14] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
+[11:31:14] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[11:31:14] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.2
+[11:31:14] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[11:31:14] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[11:31:14] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[11:31:14] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:31:14] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_3.PaperweightFaweAdapter as the Bukkit adapter
+[11:31:15] [Server thread/INFO]: Preparing level "world"
+[11:31:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:31:16] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[11:31:16] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 218.9ms
+[11:31:16] [Server thread/INFO]: Preparing spawn area: 0%
+[11:31:16] [Server thread/INFO]: Preparing spawn area: 0%
+[11:31:16] [Server thread/INFO]: Time elapsed: 869 ms
+[11:31:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:31:16] [Server thread/INFO]: Preparing spawn area: 0%
+[11:31:17] [Server thread/INFO]: Time elapsed: 402 ms
+[11:31:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:31:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:31:17] [Server thread/INFO]: Time elapsed: 73 ms
+[11:31:17] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1-SNAPSHOT
+[11:31:17] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[11:31:17] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1-SNAPSHOT
+[11:31:17] [Server thread/INFO]: [packetevents] Enabling packetevents v2.7.0
+[11:31:17] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[11:31:17] [Server thread/INFO]: [Typewriter] Enabling Typewriter v0.8.0-beta-144
+[11:31:17] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[11:31:17] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release of PacketEvents. Your build: (2.7.0)
+[11:31:17] [Server thread/INFO]: [[38;5;11m⚡[0m] Enabling LagFixer v1.3.31 (build 95)
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] Remember to leave a rating! ★ ★ ★ ★ ★
+
+
+
+
+
+LagFixer - Best Performance Solution!
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░██╗░░░░░░█████╗░░██████╗░░░███████╗██╗██╗░░██╗███████╗██████╗░░
+░██║░░░░░██╔══██╗██╔════╝░░░██╔════╝██║╚██╗██╔╝██╔════╝██╔══██╗░
+░██║░░░░░███████║██║░░██╗░░░█████╗░░██║░╚███╔╝░█████╗░░██████╔╝░
+░██║░░░░░██╔══██║██║░░╚██╗░░██╔══╝░░██║░██╔██╗░██╔══╝░░██╔══██╗░
+░███████╗██║░░██║╚██████╔╝░░██║░░░░░██║██╔╝╚██╗███████╗██║░░██║░
+░╚══════╝╚═╝░░╚═╝░╚═════╝░░░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+
+
+
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Enabling manager...
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Started listening for console LagFixer errors!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Enabled manager in 1ms!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Enabling manager...
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded creatures 85 to creature container!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded items 7 to item container!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded fork support ~ xyz.lychee.lagfixer.support.Folia
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded nms support ~ xyz.lychee.lagfixer.nms.v1_21_R2.SupportNms
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Enabled manager in 24ms!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Enabling manager...
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Enabled manager in 90ms!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Enabling manager...
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Enabled manager in 0ms!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Enabling manager...
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Enabled manager in 3ms!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Enabling manager...
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Enabled manager in 14ms!
+[11:31:18] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Enabling manager...
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module WorldCleaner in 34ms.
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module LagMonitor in 8ms.
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module RedstoneLimiter in 4ms.
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module InstantLeafDecay in 2ms.
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module EntityLimiter in 8ms.
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module CustomVehicles in 8ms.
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module CustomAi in 22ms.
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Enabled manager in 102ms!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Enabling manager...
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Enabled manager in 14ms!
+[11:31:18] [Server thread/INFO]: [[38;5;11m⚡[0m] Remember to leave a rating! ★ ★ ★ ★ ★
+[11:31:18] [Server thread/INFO]: [Pl3xMap] Enabling Pl3xMap v1.21.3-511
+[11:31:19] [Server thread/INFO]: [Pl3xMap] [INFO] Internal webserver running on 0.0.0.0:8080
+[11:31:19] [Server thread/INFO]: [Pl3xMap] [INFO] Platform: purpur
+[11:31:19] [Server thread/INFO]: [Pl3xMap] [INFO] Version: 1.21.3-511
+[11:31:20] [Server thread/INFO]: [spark] Starting background profiler...
+[11:31:20] [Server thread/INFO]: Done preparing level "world" (4.881s)
+[11:31:20] [Server thread/INFO]: Running delayed init tasks
+[11:31:20] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[11:31:21] [Server thread/INFO]: [Typewriter] 
+---------------{ Loaded Extensions }---------------
+
+BasicExtension (0.8.0) 📚: 122 👂:  18 🔌:   0
+
+--------------------------------------------------
+[11:31:21] [Server thread/INFO]: [Typewriter] Loaded 0 entries from 0 pages.
+[11:31:21] [Server thread/INFO]: [Typewriter] Loaded 0 entry listeners
+[11:31:21] [Server thread/WARN]: [Typewriter] Websocket server is enabled. This is not recommended for production servers.
+[11:31:21] [Server thread/INFO]: [ktor.application] Autoreload is disabled because the development mode is off.
+[11:31:21] [Server thread/INFO]: [ktor.application] Application started in 0.093 seconds.
+[11:31:21] [DefaultDispatcher-worker-3/INFO]: [ktor.application] Responding at http://0.0.0.0:2001
+[11:31:21] [Server thread/INFO]: [com.corundumstudio.socketio.SocketIOServer] Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+[11:31:21] [nioEventLoopGroup-5-1/INFO]: [com.corundumstudio.socketio.SocketIOServer] SocketIO server started at port: 9092
+[11:31:21] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[11:31:21] [Server thread/INFO]: Done (22.327s)! For help, type "help"
+[11:33:44] [User Authenticator #0/INFO]: UUID of player FierraPlayz is 383e19d0-5b39-425d-9824-65446ef0a95f
+[11:33:46] [Server thread/INFO]: FierraPlayz joined the game
+[11:33:46] [Server thread/INFO]: FierraPlayz[/127.0.0.1:50764] logged in with entity id 103 at ([world]879.8514042142128, 67.0, 136.6711169739449)
+[11:33:51] [Server thread/INFO]: FierraPlayz issued server command: /typewriter connect
+[11:44:50] [Server thread/INFO]: FierraPlayz lost connection: Disconnected
+[11:44:50] [Server thread/INFO]: FierraPlayz left the game
+[12:00:59] [User Authenticator #1/INFO]: UUID of player FierraPlayz is 383e19d0-5b39-425d-9824-65446ef0a95f
+[12:01:01] [Server thread/INFO]: FierraPlayz joined the game
+[12:01:01] [Server thread/INFO]: FierraPlayz[/127.0.0.1:50686] logged in with entity id 1532 at ([world]879.8514042142128, 67.0, 136.6711169739449)
+[12:02:54] [Server thread/ERROR]: Entity threw exception at world:889.5,3.0,129.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoal2" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:103) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:974) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3692) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:702) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:303) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3401) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:467) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:296) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1387) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:836) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:815) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1923) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1711) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1370) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:344) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:02:57] [Server thread/INFO]: Stopping the server
+[12:02:57] [Server thread/INFO]: Stopping server
+[12:02:57] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.12.2
+[12:02:57] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[12:02:57] [Server thread/INFO]: [Pl3xMap] Disabling Pl3xMap v1.21.3-511
+[12:02:57] [Server thread/INFO]: [Pl3xMap] [INFO] Internal webserver stopped
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.3.31 (build 95)
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 1ms!
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 1ms!
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module WorldCleaner in 1ms.
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module LagMonitor in 0ms.
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module RedstoneLimiter in 0ms.
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module InstantLeafDecay in 0ms.
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module EntityLimiter in 0ms.
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomVehicles in 0ms.
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomAi in 0ms.
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 3ms!
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[12:02:57] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 0ms!
+[12:02:57] [Server thread/INFO]: [Typewriter] Disabling Typewriter v0.8.0-beta-144
+[12:03:01] [Server thread/INFO]: [com.corundumstudio.socketio.SocketIOServer] SocketIO server stopped
+[12:03:02] [Server thread/ERROR]: Error occurred while disabling Typewriter v0.8.0-beta-144
+java.lang.IllegalStateException: Tried to access CommandAPIHandler instance, but it was null! Are you using CommandAPI features before calling CommandAPI#onLoad?
+	at Typewriter.jar/com.typewritermc.engine.paper.extensions.commandapi.CommandAPIHandler.getInstance(CommandAPIHandler.java:172) ~[Typewriter.jar:?]
+	at Typewriter.jar/com.typewritermc.engine.paper.extensions.commandapi.CommandAPI.unregister(CommandAPI.java:277) ~[Typewriter.jar:?]
+	at Typewriter.jar/com.typewritermc.engine.paper.TypewriterPaperPlugin.unload(TypewriterPaperPlugin.kt:188) ~[Typewriter.jar:?]
+	at Typewriter.jar/com.typewritermc.engine.paper.TypewriterPaperPlugin.onDisableAsync(TypewriterPaperPlugin.kt:227) ~[Typewriter.jar:?]
+	at Typewriter.jar/com.github.shynixn.mccoroutine.bukkit.SuspendingJavaPlugin$onDisable$1.invokeSuspend(SuspendingJavaPlugin.kt:49) ~[Typewriter.jar:?]
+	at Typewriter.jar/kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33) ~[Typewriter.jar:?]
+	at Typewriter.jar/kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106) ~[Typewriter.jar:?]
+	at Typewriter.jar/kotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:280) ~[Typewriter.jar:?]
+	at Typewriter.jar/kotlinx.coroutines.BlockingCoroutine.joinBlocking(Builders.kt:85) ~[Typewriter.jar:?]
+	at Typewriter.jar/kotlinx.coroutines.BuildersKt__BuildersKt.runBlocking(Builders.kt:59) ~[Typewriter.jar:?]
+	at Typewriter.jar/kotlinx.coroutines.BuildersKt.runBlocking(Unknown Source) ~[Typewriter.jar:?]
+	at Typewriter.jar/kotlinx.coroutines.BuildersKt__BuildersKt.runBlocking$default(Builders.kt:38) ~[Typewriter.jar:?]
+	at Typewriter.jar/kotlinx.coroutines.BuildersKt.runBlocking$default(Unknown Source) ~[Typewriter.jar:?]
+	at Typewriter.jar/com.github.shynixn.mccoroutine.bukkit.SuspendingJavaPlugin.onDisable(SuspendingJavaPlugin.kt:48) ~[Typewriter.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[purpur-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[purpur-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:638) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1073) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:833) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1444) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:344) ~[purpur-1.21.3.jar:1.21.3-2358-16ce24a]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:03:02] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.4.1
+[12:03:02] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.145
+[12:03:02] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[12:03:02] [Server thread/INFO]: [LuckPerms] Closing storage...
+[12:03:02] [Server thread/INFO]: [LuckPerms] Goodbye!
+[12:03:02] [Server thread/INFO]: [packetevents] Disabling packetevents v2.7.0
+[12:03:02] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1-SNAPSHOT
+[12:03:02] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1-SNAPSHOT
+[12:03:02] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[12:03:02] [Server thread/INFO]: Saving players
+[12:03:02] [Server thread/INFO]: FierraPlayz lost connection: Server closed
+[12:03:02] [Server thread/INFO]: FierraPlayz left the game
+[12:03:02] [Server thread/INFO]: Saving worlds
+[12:03:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:03:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[12:03:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[12:03:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[12:03:02] [Server thread/INFO]: [ChunkHolderManager] Saved 100 block chunks, 178 entity chunks, 0 poi chunks in world 'world' in 0.16s
+[12:03:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[12:03:02] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[12:03:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[12:03:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[12:03:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[12:03:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:03:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:03:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:03:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:03:03] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[12:03:03] [Server thread/INFO]: All I/O tasks to complete
+[12:03:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[12:03:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
